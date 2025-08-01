@@ -15,9 +15,9 @@ How To Use????? (Why So Bad)
  - 11: 👍👍👍
 
 Bugs (Pls help fix me bad):
-1: Absolutely breaks down when fast.
-2: Wanted to do just one beep but can't remove first line.
-3: That's all I can think for now :))))
+ - 1: Absolutely breaks down when fast.
+ - 2: Wanted to do just one beep but can't remove first line.
+ - 3: That's all I can think for now :))))
 
 To contact me:
 Email: IThinkIDoStuff@gmail.com
