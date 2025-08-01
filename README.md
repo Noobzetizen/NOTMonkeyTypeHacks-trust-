@@ -20,4 +20,4 @@ Bugs (Pls help fix me bad):
  - 3: That's all I can think for now :))))
 
 To contact me:
-Email: IThinkIDoStuff@gmail.com
+ - Email: IThinkIDoStuff@gmail.com
